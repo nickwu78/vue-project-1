@@ -1,5 +1,5 @@
 # Vue Project 1
-## A simple text based game
+## A simple text based game using Vue.js
 
 This is a project I coded whilst learning from a [Vue JS course](https://www.udemy.com/vuejs-2-the-complete-guide/)
 
